@@ -42,7 +42,6 @@ bin
 tests
 out
 build/
-gradle/
 
 # Secrets as resources
 **/*/res/values/secrets.xml
